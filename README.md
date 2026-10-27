@@ -16,5 +16,5 @@ Full Stack Developer based in Shenzhen, targeting Australia 482 TSS roles.
 - [react-vite-dashboard](https://github.com/heqiufan/react-vite-dashboard): React + TS frontend demo
 
 ## 📫 Contact
-- LinkedIn: 【这里填上你的领英链接】
-- Email: 【可选，放你的邮箱】
+- LinkedIn: 【[linkedin](https://www.linkedin.com/in/qiufan-he-4b3533445/)】
+- Email: 【103577392@qq.com】
