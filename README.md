@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Qiufan He 👋
+Full Stack Developer based in Shenzhen, targeting Australia 482 TSS roles.
 
-<!--
-**heqiufan/heqiufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- Backend: C# / .NET 9, ASP.NET Core MVC, EF Core, SQL Server, Azure
+- Frontend: React, TypeScript, Vite, AJAX, HTML/CSS
+- Other: Git, REST API, Canvas, DaVinci Resolve, Photography
 
-Here are some ideas to get you started:
+## 💼 About me
+- Software Developer (ACS assessed, ANZSCO:261312)
+- Experienced in building full-stack web applications and quantitative analysis tools
+- Also work as a professional photographer & video editor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [dotnet-quant-tools](https://github.com/heqiufan/dotnet-quant-tools): C# backend for stock indicator calculation
+- [react-vite-dashboard](https://github.com/heqiufan/react-vite-dashboard): React + TS frontend demo
+
+## 📫 Contact
+- LinkedIn: 【这里填上你的领英链接】
+- Email: 【可选，放你的邮箱】
